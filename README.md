@@ -8,3 +8,5 @@ Linux : https://github.com/tyro-Hu/notebook/tree/main/linux
 pandas : https://github.com/tyro-Hu/notebook/tree/main/pandas
 
 numpy : https://github.com/tyro-Hu/notebook/tree/main/numpy
+
+迁移学习 : https://github.com/tyro-Hu/notebook/tree/main/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0
