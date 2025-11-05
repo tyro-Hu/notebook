@@ -1,5 +1,5 @@
 # notebook
-记录学习过的技术的手写笔记
+记录学习过的技术的笔记
 
 Linux : https://github.com/tyro-Hu/notebook/tree/main/linux
 
